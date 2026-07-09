@@ -16,7 +16,6 @@ The report enables users to monitor key business metrics and identify patterns t
 - ✅ Transaction Success Rate
 - 📅 Monthly Transaction Trends
 - 📊 Transaction Value by Category
-- 👤 User Distribution by State
 - 🍩 Payment Status Distribution
 - 🎯 User Age Segment Analysis
 - 🔍 Interactive Filters (Month & Payment Status)
@@ -80,10 +79,6 @@ The dashboard is built using transaction and user datasets containing informatio
 ---
 
 ## 📸 Dashboard Preview
-
-
-
-images/dashboard.png
 
 
 ![Dashboard Preview](images/dashboard.png)
