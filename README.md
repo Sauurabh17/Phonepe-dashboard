@@ -81,8 +81,6 @@ The dashboard is built using transaction and user datasets containing informatio
 
 ## 📸 Dashboard Preview
 
-> Add a screenshot of your dashboard here.
-
 
 
 images/dashboard.png
